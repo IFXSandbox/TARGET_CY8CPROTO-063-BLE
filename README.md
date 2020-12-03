@@ -63,7 +63,7 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 * [Cypress Semiconductor GitHub](https://github.com/cypresssemiconductorco)
 * [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
 
-[api]: https://cypresssemiconductorco.github.io/TARGET_CY8CPROTO-063-BLE/html/modules.html
+[api]: https://CYDocTest.github.io/TARGET_CY8CPROTO-063-BLE/html/modules.html
 
 ---
 © Cypress Semiconductor Corporation, 2019-2020.
